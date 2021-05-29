@@ -94,7 +94,7 @@
 export default {
   data() {
     return {
-      token: "xoxb-2083363771522-2109123388420-L06z4KjctLzLT9YDgw7yCi7D",
+      
       current_country: "", //selected country
       countries: "", //Country array, that will include all countries data.
       toggle_data: false,
