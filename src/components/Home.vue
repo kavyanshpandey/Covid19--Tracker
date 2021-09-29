@@ -4,7 +4,6 @@
 
     <div class="first_div">
       <h2 style="font-size: 30px">Please Select Country</h2>
-
       <select v-model="current_country">
         <option disabled selected value="">Select Country</option>
         <option
@@ -15,16 +14,14 @@
           {{ country.Country }}
         </option>
       </select>
-
       <br />
       <br />
-
       <div>
         <button @click="GetData">CLick here to know the stats</button>
-        <br />
-        <br />
-        <br />
-        <div v-if="toggle_data">
+      </div>
+    </div>
+
+    <div class="first_div" v-if="toggle_data">
           <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
             Total Conformed Cases :
             <span class="total_cases">{{ c_total_confirmed_cases }}</span>
@@ -49,13 +46,6 @@
             New Recovered : <span class="recovered">{{ c_new_recovered }}</span>
           </h2>
         </div>
-
-        <div v-else>
-          <h1 style="font-size:35px;">Records Source : Covid19 API (UPDATES DAILY 12AM IST)</h1>
-
-        </div>  
-      </div>
-    </div>
 
     <div class="first_div">
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -169,13 +159,14 @@ export default {
   position: relative;
   margin: 2rem auto;
   max-width: 70rem;
-  height: 45vh;
+  height: 28vh;
 
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
   padding: 2rem;
   background-color: #ffffff;
 }
+
 
 button {
   background: #000000;
