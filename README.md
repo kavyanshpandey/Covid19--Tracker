@@ -10,9 +10,12 @@ This project is made on VueJS with the help of COVID19 API.
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development.
+
 ```
-npm run serve
+### npm run serve
+
+
 ```
 
 
