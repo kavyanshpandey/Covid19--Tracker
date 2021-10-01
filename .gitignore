@@ -2,18 +2,17 @@
 node_modules
 /dist
 
-
-# local env files
+#local env files
 .env.local
 .env.*.local
 
-# Log files
+#Log files
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Editor directories and file
+#Editor directories and file
 .idea
 .vscode
 *.suo
