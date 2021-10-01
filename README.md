@@ -1,8 +1,8 @@
-# {covid-tracker}
+# {Covid-Tracker}
 This project is made on VueJS with the help of COVID19 API.
 Simple tracker for Covid-19 cases and deaths
 
-# Stack-Used
+# [Stack-Used]
 1. HTML
 2. VUE
 3. JAVASCRIPT
@@ -16,7 +16,7 @@ Simple tracker for Covid-19 cases and deaths
 npm install
 ```
 
-### [Compiles and hot-reloads for development.
+### [Compiles and hot-reloads for development.]
 
 ```
 ### npm run serve
