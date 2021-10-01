@@ -68,12 +68,13 @@
           New Deaths : <span class="death">{{ new_death }}</span>
         </h2>
         <br /><br />
+        <h2 style="margin: 0; display: inline; float: right">
+            New Recovered : <span class="recovered">{{ new_recovered }}</span>
+        </h2>
         <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
           Total Recovered : <span class="recovered">{{ total_recovered }}</span>
         </h2>
-        <h2 style="margin: 0; display: inline; float: right">
-          New Recovered : <span class="recovered">{{ new_recovered }}</span>
-        </h2>
+
       </div>
     </div>
   </section>
