@@ -10,13 +10,14 @@ Simple tracker for Covid-19 cases and deaths
 ## [Features]
 1. Visiters will get all latest information related to covid-counts.
 2. Visiters can also get the counts for thier country by selecting country name from dropdown.
+3. Visitors can also fill the Covid Vaccine Form by this tracker.
 
 ## [Project setup]
 ```
 npm install
 ```
 
-### [Compiles and hot-reloads for development.
+### [Compiles and hot-reloads for development]
 
 ```
 ### npm run serve
