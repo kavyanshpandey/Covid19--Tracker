@@ -1,6 +1,7 @@
-# {covid-tracker}
+# {Covid-Tracker}
 This project is made on VueJS with the help of COVID19 API.
-Simple tracker for Covid-19 cases and deaths
+Simple tracker for Covid-19 cases and deaths.
+Showing all country's Covid-19 cases.
 
 # Stack-Used
 1. HTML
