@@ -36,5 +36,7 @@ body {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-clip: padding-box;
+  background-attachment: fixed;
 }
 </style>
