@@ -1,10 +1,12 @@
 # </> Covid Tracker
 This project is made on VueJS with the help of COVID19 API.
-Simple tracker for Covid-19 cases and deaths
+Simple tracker for Covid-19 cases and deaths.
 # [Covid-19 Description]
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
-Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention
+It is the largest category for an RNA virus. In most cases, it is difficult to detect if coronavirus or a different cold-causing virus is causing you fever.
+Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention.
+Known as “COVID-19”, the newly identified coronavirus can cause pneumonia, and like other respiratory infections, it has an incubation of between 1 and 14 days.
 
 # Stack-Used
  master
