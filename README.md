@@ -15,6 +15,7 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 ## [Features]
 1. Visiters will get all latest information related to `covid-counts`.
 2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
+3. New fields may be added without warning, but will not alter the structure of the data. If you are using CSV files, make sure to use the column names from the file to lookup data, not the column numbers, which can change.
 
 ## [Project setup]
 ```
