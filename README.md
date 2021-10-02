@@ -16,6 +16,12 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 1. Visiters will get all latest information related to `covid-counts`.
 2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
 
+# [Precautions]
+1. When you go outside always wear a mask.
+2. Maintain Social Distancing.
+3. Always use sanitizer to sanitize your hands.
+
+
 ## [Project setup]
 ```
 npm install
