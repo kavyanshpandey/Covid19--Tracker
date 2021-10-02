@@ -18,6 +18,9 @@ const router = createRouter({
             path:'/stats', component:Home
         },
         {
+            path:'/welcome', component:WelcomeScreen
+        },
+        {
             path:'/:notFound(.*)', redirect:'/'
         }
     ]
