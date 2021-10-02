@@ -29,5 +29,5 @@ npm install
 
 ```
 
-
+##Hope you like it ! Feel free to contribute
 
