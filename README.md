@@ -16,17 +16,21 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 1. Visiters will get all latest information related to `covid-counts`.
 2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
 
+## [Clone Repository]
+```
+git clone https://github.com/<your user name>/Covid19--Tracker.git
+cd Covid19--Tracker.git
+```
+
 ## [Project setup]
 ```
 npm install
 ```
 
-### [Compiles and hot-reloads for development.
+### [Compiles and hot-reloads for development]
 
 ```
-### npm run serve
-
-
+npm run serve
 ```
 
 
