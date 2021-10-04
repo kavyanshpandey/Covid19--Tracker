@@ -6,6 +6,11 @@ Simple tracker for Covid-19 cases and deaths
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention
 
+# Photos
+
+![WhatsApp Image 2021-10-04 at 11 37 53 AM](https://user-images.githubusercontent.com/72314518/135802217-8c9cd3e8-b8fb-4ee3-beaa-cf91d872e3b3.jpeg)
+
+
 # Tech Stack-Used
  Master
 1. HTML(Hyper Text Markup Language)
