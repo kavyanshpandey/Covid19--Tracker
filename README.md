@@ -26,6 +26,7 @@ npm install
 ```
 ### npm run serve
 
+#thank you
 
 ```
 
