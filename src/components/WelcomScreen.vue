@@ -18,7 +18,8 @@
         
         <br />
        
-        <router-link to="/stats">Get Started</router-link>
+        <router-link to="/stats">Get Started</router-link>&nbsp&nbsp
+        <router-link to="/GoodBye">Exit Page</router-link>
         
       </div>
     </section>    

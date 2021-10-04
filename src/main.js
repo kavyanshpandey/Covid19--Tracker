@@ -4,6 +4,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 import App from './App.vue';
 import Home from './components/Home';
 import WelcomeScreen from './components/WelcomScreen';
+import Endpage from './components/Endpage';
 
 
 
@@ -19,6 +20,9 @@ const router = createRouter({
         },
         {
             path:'/:notFound(.*)', redirect:'/'
+        },
+        {
+            path:'/:GoodBye', component:Endpage
         }
     ]
 })
