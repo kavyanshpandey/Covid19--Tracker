@@ -12,7 +12,7 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 2. VUE (Visual User Environment)
 3. JAVASCRIPT
 
-# Covid-19 API Used
+# COVID-19 API Used
 https://corona.lmao.ninja/v3/covid-19/all
 
 
