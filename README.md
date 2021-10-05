@@ -15,7 +15,7 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 ## [Features]
 1. Visiters will get all latest information related to `covid-counts`.
 2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
-
+3. visiters can aslo get number of cases and deaths in our areas
 ## [Clone Repository]
 ```
 git clone https://github.com/<your user name>/Covid19--Tracker.git
