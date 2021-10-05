@@ -20,20 +20,22 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 3. visiters can aslo get number of cases and deaths in our areas
 ## [Clone Repository]
 ```
-git clone https://github.com/<your user name>/Covid19--Tracker.git
+>> git clone https://github.com/<your user name>/Covid19--Tracker.git
 cd Covid19--Tracker.git
 ```
 
 ## [Project setup]
 ```
-npm install
+>> npm install
 ```
 
-### [Compiles and hot-reloads for development]
+#### [Compiles and hot-reloads for development]
 
 ```
-npm run serve
-```
+>> npm run serve
+....
+..
+.
 
 
 
