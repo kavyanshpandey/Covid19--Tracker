@@ -10,7 +10,7 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
  master
 1. HTML(Hyper Text Markup Language)
 2. VUE (Visual User Environment)
-3. JAVASCRIPT
+3. JAVASCRIPT.
 
 ## [Features]
 1. Visiters will get all latest information related to `covid-counts`.
