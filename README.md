@@ -4,7 +4,7 @@ Simple tracker for Covid-19 cases and deaths
 # [Covid-19 Description]
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
-Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention.
+Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention and The outbreak of Novel coronavirus disease (COVID-19) was initially noticed in a seafood market in Wuhan city in Hubei Province of China in mid- December, 2019, has now spread to 215 countries/territories/areas worldwide.
 
 # Stack-Used
  master
