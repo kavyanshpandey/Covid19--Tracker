@@ -7,11 +7,11 @@ Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention.
 almost every corner of world is under this disease 
 
-# Stack-Used
+# {Stack-Used}
  master
 1. HTML(Hyper Text Markup Language)
 2. VUE (Visual User Environment)
-3. JAVASCRIPT
+3. JAVASCRIPT..
 
 ## [Features]
 1. Visiters will get all latest information related to `covid-counts`.
@@ -31,7 +31,10 @@ npm install
 ### [Compiles and hot-reloads for development]
 
 ```
-npm run serve
+npm run serve....
+will all..
+poll request will be accepted..??
+.
 ```
 
 
