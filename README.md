@@ -23,12 +23,12 @@ git clone https://github.com/<your user name>/Covid19--Tracker.git
 cd Covid19--Tracker.git
 ```
 
-## [Project setup]
+## [Project's setup]
 ```
 npm install
 ```
 
-### [Compiles and hot-reloads for development]
+### [Compiles & hot-reloads for development]
 
 ```
 npm run serve
