@@ -8,12 +8,12 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 almost every corner of world is under this disease 
 
 # {Stack-Used}
- master
+ Master
 1. HTML(Hyper Text Markup Language)
 2. VUE (Visual User Environment)
 3. JAVASCRIPT
 
-## [Features]
+## {Features}
 1. Visiters shall get all latest information related to `covid-counts`.
 2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
 
