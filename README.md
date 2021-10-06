@@ -9,8 +9,8 @@ almost every corner of world is under this disease
 
 # Stack-Used
  master
-1. HTML(Hyper Text Markup Language)
-2. VUE (Visual User Environment)
+1.  HTML(Hyper Text Markup Language)
+2.  VUE (Visual User Environment)
 3. JAVASCRIPT
 
 ## [Features]
