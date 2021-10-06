@@ -6,6 +6,7 @@ Simple tracker for Covid-19 cases and deaths
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention.
 almost every corner of world is under this disease 
+The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. These particles range from larger respiratory droplets to smaller aerosols.
 
 # Stack-Used
  master
