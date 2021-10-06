@@ -7,23 +7,25 @@ Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention.
 almost every corner of world is under this disease 
 
-# Stack-Used
+# {Stack-Used}
  master
-1. HTML(Hyper Text Markup Language)
-2. VUE (Visual User Environment)
-3. JAVASCRIPT
+(1) HTML(Hyper Text Markup Language)
 
-## [Features]
-1. Visiters will get all latest information related to `covid-counts`.
-2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
+(2) VUE (Visual User Environment)
 
-## [Clone Repository]
+(3) JAVASCRIPT
+
+## {Features}
+(1) Visiters will get all latest information related to `covid-counts`.
+(2) Visiters can also get the `counts` for thier country by selecting country name from dropdown.
+
+## {Clone Repository}
 ```
 git clone https://github.com/<your user name>/Covid19--Tracker.git
 cd Covid19--Tracker.git
 ```
 
-## [Project setup]
+## {Project setup}
 ```
 npm install
 ```
@@ -33,6 +35,7 @@ npm install
 ```
 npm run serve
 ```
-
+-------
+------
 
 
