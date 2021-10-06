@@ -32,6 +32,9 @@ npm install
 
 ```
 npm run serve
+will all..
+poll request will be accepted..??
+.
 ```
 
 
