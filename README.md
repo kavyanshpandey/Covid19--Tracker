@@ -10,8 +10,10 @@ almost every corner of world is under this disease
 # Stack-Used
  master
 1. HTML(Hyper Text Markup Language)
-2. VUE (Visual User Environment)
-3. JAVASCRIPT
+ The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser.
+
+3. VUE (Visual User Environment)
+4. JAVASCRIPT
 
 ## [Features]
 1. Visiters will get all latest information related to `covid-counts`.
