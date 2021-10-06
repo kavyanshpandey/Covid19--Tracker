@@ -9,9 +9,9 @@ almost every corner of world is under this disease
 
 # {Stack-Used}
  Master
-1. HTML(Hyper Text Markup Language)
-2. VUE (Visual User Environment)
-3. JAVASCRIPT
+1) HTML(Hyper Text Markup Language)
+2) VUE (Visual User Environment)
+3) JAVASCRIPT
 
 ## <Features>
 1. Visiters shall get all latest information related to `covid-counts`.
