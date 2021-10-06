@@ -13,6 +13,9 @@ almost every corner of world is under this disease
 2. VUE (Visual User Environment)
 3. JAVASCRIPT
 
+# API USED
+1.Covid 19 api
+
 ## [Features]
 1. Visiters will get all latest information related to `covid-counts`.
 2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
@@ -22,6 +25,7 @@ almost every corner of world is under this disease
 git clone https://github.com/<your user name>/Covid19--Tracker.git
 cd Covid19--Tracker.git
 ```
+
 
 ## [Project setup]
 ```
