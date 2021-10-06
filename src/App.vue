@@ -4,7 +4,7 @@
         <router-view></router-view>
         <!-- <welcome-screen></welcome-screen> -->
 
-        <!-- <home></home> -->
+        
         
 
     </div>    
