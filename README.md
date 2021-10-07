@@ -16,8 +16,8 @@ This app helps in tracking Covid-19
 3. JAVASCRIPT (JS)
 
 ## [Features]
-1. Visiters will get all latest information related to `covid-counts`.
-2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
+1. -> Visiters will get all latest information related to `covid-counts`.
+2. -> Visiters can also get the `counts` for thier country by selecting country name from dropdown.
 
 ## [Clone Repository]
 ```
@@ -35,6 +35,6 @@ npm install
 ```
 npm run serve
 ```
-
+----------------------------------------------------------------------------------------------
 
 
