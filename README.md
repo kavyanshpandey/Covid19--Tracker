@@ -15,7 +15,7 @@ almost every corner of world is under this disease
 
 ## [Features]
 1. Visiters will get all latest information related to `covid-counts`.
-2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
+2. Visiters can also get the `counts` for thier country by selecting country name from dropdown..
 
 ## [Clone Repository]
 ```
