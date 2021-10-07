@@ -13,8 +13,8 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 3. JAVASCRIPT
 
 ## [Features]
-1. Visiters will get all latest information related to `covid-counts`.
-2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
+1. Visitors will get all latest information related to `covid-counts`.
+2. Visitors can also get the `counts` for thier country by selecting country name from dropdown.
 
 ## [Clone Repository]
 ```
