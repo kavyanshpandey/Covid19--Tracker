@@ -1,3 +1,4 @@
+//importing all the files required
 import { createApp } from 'vue';
 import { createRouter, createWebHistory } from 'vue-router';
 
