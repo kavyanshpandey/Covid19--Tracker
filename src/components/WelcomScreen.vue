@@ -2,13 +2,13 @@
 
     <section class="home">
        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <img src="http://www.umw.edu/covidcourse/wp-content/uploads/sites/51/2020/05/COVID-19_header.jpg">
+        <!-- <img class="" src="http://www.umw.edu/covidcourse/wp-content/uploads/sites/51/2020/05/COVID-19_header.jpg"> -->
 
         <div class="home-content">
-        <h1 style="font-size:70px;">
+        <h1 style="font-size:50px;">
           COVID-19
         </h1>
-        <p style="font-size:30px;">This platform helps you to get real-time<br />
+        <p style="font-size:20px;">This platform helps you to get real-time<br />
         covid cases updates of every country.</p>
 
         <p style="font-size:20px;">Key Points</p>
@@ -61,7 +61,7 @@
       height: 50%;
       width:60%;
       align-content: center;
-      margin-top:14rem;
+      /* margin-top:0rem; */
 
     }
 

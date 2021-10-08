@@ -2,10 +2,11 @@
   <section>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <div class="first_div">
-      <h2 style="font-size: 30px">Please Select Country</h2>
+    <div class="first_div flex-container">
+      <h1>Please Select Country:</h1>
+      <br>
       <select v-model="current_country">
-        <option disabled selected value="">Select Country</option>
+        <option disabled selected value="">Please select an option.</option>
         <option
           v-for="country in countries"
           :value="{ id: country.ID, name: country.Country }"
@@ -14,20 +15,19 @@
           {{ country.Country }}
         </option>
       </select>
-      <br />
-      <br />
-      <div>
-        <button @click="GetData">CLick here to know the stats</button>
-      </div>
     </div>
+      <div class="child-div">
+        <button @click="GetData"> CLick here to know the stats </button>
+      </div>
 
     <div class="first_div" v-if="toggle_data">
+      <div class="inner_div">
           <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
-            Total Conformed Cases :
+            Total Cases :
             <span class="total_cases">{{ c_total_confirmed_cases }}</span>
           </h2>
           <h2 style="margin: 0; display: inline; float: right">
-            New Conformed Cases :
+            New Cases :
             <span class="total_cases">{{ c_new_confirmed }}</span>
           </h2>
           <br /><br />
@@ -45,19 +45,20 @@
           <h2 style="margin: 0; display: inline; float: right">
             New Recovered : <span class="recovered">{{ c_new_recovered }}</span>
           </h2>
-        </div>
 
+        </div>
+      </div>
+
+    <h1>Global Stats</h1>
     <div class="first_div">
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <div>
-        <h1>Global Stats</h1>
-        <br />
+      <div class="inner_div">
         <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
-          Total Conformed Cases :
+          Total Cases :
           <span class="total_cases">{{ total_confirmed_cases }}</span>
         </h2>
         <h2 style="margin: 0; display: inline; float: right">
-          New Conformed Cases :
+          New Cases :
           <span class="total_cases">{{ new_confirmed }}</span>
         </h2>
         <br /><br />
@@ -158,16 +159,22 @@ export default {
 .first_div {
   position: relative;
   margin: 2rem auto;
-  max-width: 70rem;
-  height: 28vh;
-
+  height:50%;
+  display: flexbox;
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
   padding: 2rem;
   background-color: #ffffff;
 }
-
-
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  /* background-color: DodgerBlue; */
+}
+.inner_div{
+  /* background:red; */
+  height:40vh;
+  }
 button {
   background: #000000;
   color: #ffffff;
