@@ -4,8 +4,15 @@ Simple tracker for Covid-19 cases and deaths
 # [Covid-19 Description]
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
-Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention.
-almost every corner of world is under this disease 
+Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention almost every corner of world is under this disease.
+Protect yourself and those around you:
+
+Get vaccinated as soon as it’s your turn and follow local guidance on vaccination.
+Keep physical distance of at least 1 metre from others, even if they don’t appear to be sick. Avoid crowds and close contact.
+Wear a properly fitted mask when physical distancing is not possible and in poorly ventilated settings.
+Clean your hands frequently with alcohol-based hand rub or soap and water.
+Cover your mouth and nose with a bent elbow or tissue when you cough or sneeze. Dispose of used tissues immediately and clean hands regularly. 
+If you develop symptoms or test positive for COVID-19, self-isolate until you recover.
 
 # Stack-Used
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
