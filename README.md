@@ -8,11 +8,6 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 almost every corner of world is under this disease 
 
 # Stack-Used
- master
-1. HTML(Hyper Text Markup Language)
-2. VUE (Visual User Environment)
-3. JAVASCRIPT
-#TOOLS
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
