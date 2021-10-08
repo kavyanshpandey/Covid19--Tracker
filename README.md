@@ -1,3 +1,10 @@
+| Project  🚧 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🌿 |
+|---------|-------|-------|--------|---------------|
+| Covid19--Tracker | ![GitHub stars](https://img.shields.io/github/stars/kavyanshpandey/Covid19--Tracker?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/kavyanshpandey/Covid19--Tracker?style=for-the-badge)
+
+
+
+
 # </> Covid Tracker
 This project is made on VueJS with the help of COVID19 API.  
 Simple tracker for Covid-19 cases and deaths
