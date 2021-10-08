@@ -1,6 +1,7 @@
 # </> Covid Tracker
 This project is made on VueJS with the help of COVID19 API.  
-Simple tracker for Covid-19 cases and deaths
+Simple tracker for Covid-19 cases and deaths all over world.
+------------------------------------------------------------
 # [Covid-19 Description]
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
@@ -8,7 +9,7 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 almost every corner of world is under this disease 
 
 This app helps in tracking Covid-19
-
+-----------------------------------------------------------
 # {{Stack-Used}}
  master
 1. HTML(Hyper Text Markup Language)
@@ -35,6 +36,6 @@ npm install
 ```
 npm run serve
 ```
-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 
 
