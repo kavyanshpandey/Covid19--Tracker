@@ -14,8 +14,8 @@ almost every corner of world is under this disease
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 ## [Features]
-1. Visiters will get all latest information related to `covid-counts`.
-2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
+(1). Visiters will get all latest information related to `covid-counts`.
+(2). Visiters can also get the `counts` for thier country by selecting country name from dropdown.
 
 ## [Clone Repository]
 ```
