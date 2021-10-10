@@ -49,8 +49,7 @@
       bottom: 0;
       right: 0;
       height: 100%;
-      width:60%
-
+      width:60%;
     }
 
     .home-content {
@@ -61,7 +60,7 @@
       height: 50%;
       width:60%;
       align-content: center;
-      margin-top:14rem;
+      margin: 10rem 0 0 1rem;
 
     }
 
@@ -73,6 +72,7 @@
         border-radius:5px;
         border: 1px solid #ec3312;
         text-decoration: none;
+        margin-top: 5rem;
     }
 
     a:hover {

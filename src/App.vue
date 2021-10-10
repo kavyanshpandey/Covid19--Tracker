@@ -28,6 +28,13 @@ export default({
 <style>
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
 template,
 body {
   font-family: 'Poppins', sans-serif;
@@ -36,5 +43,6 @@ body {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  min-height: 100vh;
 }
 </style>
