@@ -3,8 +3,8 @@ This project is made on VueJS with the help of COVID19 API.
 Simple tracker for Covid-19 cases and deaths
 # [Covid-19 Description]
 
-Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
-Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention. Almost every corner of the world is affected by this disease. 
+Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 Virus.
+Most people who fall sick with COVID-19, will experience mild to moderate symptoms and recover without any special treatment. However, some become seriously ill and require medical attention. Almost every corner of the world is affected by this disease. 
 
 # Stack-Used
  master
