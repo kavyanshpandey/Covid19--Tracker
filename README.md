@@ -1,6 +1,17 @@
-# </> Covid Tracker
-This project is made on VueJS with the help of COVID19 API.  
-Simple tracker for Covid-19 cases and deaths
+| Project  🚧 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🌿 |
+|---------|-------|-------|--------|---------------|
+| Covid19--Tracker | ![GitHub stars](https://img.shields.io/github/stars/kavyanshpandey/Covid19--Tracker?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/kavyanshpandey/Covid19--Tracker?style=for-the-badge)
+
+
+
+
+#  Covid Tracker
+<ul>
+ <li>
+  This project is made on VueJS with the help of COVID19 API.  </li>
+ <li>Simple tracker for Covid-19 cases and deaths.</li>
+ </ul>
+ 
 # [Covid-19 Description]
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
