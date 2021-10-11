@@ -30,7 +30,7 @@ export default({
 
 template,
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Merienda', sans-serif;
   color: #111;
   background: url("https://raw.githubusercontent.com/Mr-vabs/mnnessaa/main/card/layered-waves.svg");
   background-position: center;
