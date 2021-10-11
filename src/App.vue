@@ -31,7 +31,7 @@ export default({
 template,
 body {
   font-family: 'Merienda', sans-serif;
-  color: #111;
+  color: #250;
 }
 
 </style>
