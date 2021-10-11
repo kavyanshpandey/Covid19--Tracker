@@ -4,7 +4,9 @@ Simple tracker for Covid-19 cases and deaths
 # [Covid-19 Description]
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
+The first known case was identified in Wuhan, China, in December 2019.
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention.
+Three common clusters of symptoms have been identified: one respiratory symptom cluster with cough, sputum, shortness of breath, and fever.
 almost every corner of world is under this disease 
 
 # Stack-Used
