@@ -20,7 +20,7 @@ almost every corner of world is under this disease
 ## [Clone Repository]
 ```
 git clone https://github.com/<your user name>/Covid19--Tracker.git
-cd Covid19--Tracker.git
+cd Covid19--Tracker.git....
 ```
 
 ## [Project setup]
