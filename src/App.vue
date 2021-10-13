@@ -36,5 +36,10 @@ body {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: absolute;
+  top: 0;
 }
 </style>

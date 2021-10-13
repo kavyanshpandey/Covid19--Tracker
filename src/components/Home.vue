@@ -190,7 +190,8 @@ button:active{
   color: #000000;
   border-color: #000000;
   border: 1px solid #000000;
-  transition: 0.3s;
+  transition: 0.34s;
+  
 }
 
 .total_cases {
@@ -200,7 +201,7 @@ button:active{
 
 .recovered {
   color: rgb(122, 207, 37);
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .death {
@@ -211,7 +212,7 @@ button:active{
 select {
         width: 10rem;
         margin: 10px;
-        height:3rem;
+        height:4rem;
         cursor: pointer;
        
 }
