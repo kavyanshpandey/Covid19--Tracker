@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <div class="first_div">
-      <h2 style="font-size: 30px">Please Select Country</h2>
+      <h2 style="font-size: 20px">Please Select Country</h2>
       <select v-model="current_country">
         <option disabled selected value="">Select Country</option>
         <option
@@ -22,7 +22,7 @@
     </div>
 
     <div class="first_div" v-if="toggle_data">
-          <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+          <h2 style="margin: 0; display: inline; float: left; font-size: 20px">
             Total Conformed Cases :
             <span class="total_cases">{{ c_total_confirmed_cases }}</span>
           </h2>
@@ -38,7 +38,7 @@
             New Deaths : <span class="death">{{ c_new_death }}</span>
           </h2>
           <br /><br />
-          <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+          <h2 style="margin: 0; display: inline; float: left; font-size: 20px">
             Total Recovered :
             <span class="recovered">{{ c_total_recovered }}</span>
           </h2>
@@ -52,7 +52,7 @@
       <div>
         <h1>Global Stats</h1>
         <br />
-        <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+        <h2 style="margin: 0; display: inline; float: left; font-size: 20px">
           Total Conformed Cases :
           <span class="total_cases">{{ total_confirmed_cases }}</span>
         </h2>
@@ -61,14 +61,14 @@
           <span class="total_cases">{{ new_confirmed }}</span>
         </h2>
         <br /><br />
-        <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+        <h2 style="margin: 0; display: inline; float: left; font-size: 20px">
           Total Deaths : <span class="death">{{ total_death }}</span>
         </h2>
         <h2 style="margin: 0; display: inline; float: right">
           New Deaths : <span class="death">{{ new_death }}</span>
         </h2>
         <br /><br />
-        <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+        <h2 style="margin: 0; display: inline; float: left; font-size: 20px">
           Total Recovered : <span class="recovered">{{ total_recovered }}</span>
         </h2>
         <h2 style="margin: 0; display: inline; float: right">
@@ -162,7 +162,7 @@ export default {
   height: 28vh;
 
   border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.26);
   padding: 2rem;
   background-color: #ffffff;
 }
@@ -180,7 +180,7 @@ button:hover {
   background: #1a1919;
   color: #ffffff;
   padding:1rem;
-  border-radius: 5px;
+  border-radius: 8px;
   transition: 0.3s;
  
 }
@@ -200,7 +200,7 @@ button:active{
 
 .recovered {
   color: rgb(122, 207, 37);
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .death {
@@ -209,14 +209,14 @@ button:active{
 }
 
 select {
-        width: 10rem;
-        margin: 10px;
+        width: 20rem;
+        margin: 20px;
         height:3rem;
         cursor: pointer;
        
 }
 select:focus {
-        min-width: 15px;
+        min-width: 20px;
         width: auto;
 }
 </style>
