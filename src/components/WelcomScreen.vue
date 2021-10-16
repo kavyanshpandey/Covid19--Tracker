@@ -8,8 +8,8 @@
         <h1 style="font-size:70px;">
           COVID-19
         </h1>
-        <p style="font-size:30px;">This platform helps you to get real-time<br />
-        covid cases updates of every country.</p>
+        <p style="font-size:30px;">This platform helps you to get live<br />
+        covid cases updates globally.</p>
 
         <p style="font-size:20px;">Key Points</p>
         <p>New Confirmed Cases  &#9989</p>
@@ -77,12 +77,9 @@
 
     a:hover {
       transition-duration: 0.4s;
-    }
-    
-    a:hover {
       background-color: #c82b0f;
       border: 1px solid #c82b0f;
-      color: #ffffff;
     }
+    
     
 </style>
