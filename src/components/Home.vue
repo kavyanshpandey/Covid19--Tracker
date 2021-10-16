@@ -161,9 +161,9 @@ export default {
   max-width: 70rem;
   height: 28vh;
 
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
-  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.21);
+  padding: 3rem;
   background-color: #ffffff;
 }
 
@@ -173,14 +173,14 @@ button {
   color: #ffffff;
   cursor: pointer;
   padding: 0.8rem;
-  border-radius: 5px;
+  border-radius: 10px;
   border: 1px solid #000000;
 }
 button:hover {
   background: #1a1919;
   color: #ffffff;
   padding:1rem;
-  border-radius: 5px;
+  border-radius: 10px;
   transition: 0.3s;
  
 }
@@ -195,28 +195,28 @@ button:active{
 
 .total_cases {
   color: #00a4ef;
-  font-size: 30px;
+  font-size: 35px;
 }
 
 .recovered {
   color: rgb(122, 207, 37);
-  font-size: 30px;
+  font-size: 35px;
 }
 
 .death {
   color: crimson;
-  font-size: 30px;
+  font-size: 35px;
 }
 
 select {
-        width: 10rem;
-        margin: 10px;
+        width: 12rem;
+        margin: 15px;
         height:3rem;
         cursor: pointer;
        
 }
 select:focus {
-        min-width: 15px;
+        min-width: 20px;
         width: auto;
 }
 </style>
