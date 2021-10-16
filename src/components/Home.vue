@@ -22,7 +22,7 @@
     </div>
 
     <div class="first_div" v-if="toggle_data">
-          <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+          <h2 style="margin: 0; display: inline; float: left; font-size: 20px">
             Total Conformed Cases :
             <span class="total_cases">{{ c_total_confirmed_cases }}</span>
           </h2>
@@ -31,14 +31,14 @@
             <span class="total_cases">{{ c_new_confirmed }}</span>
           </h2>
           <br /><br />
-          <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+          <h2 style="margin: 0; display: inline; float: left; font-size: 20px">
             Total Deaths : <span class="death">{{ c_total_death }}</span>
           </h2>
           <h2 style="margin: 0; display: inline; float: right">
             New Deaths : <span class="death">{{ c_new_death }}</span>
           </h2>
           <br /><br />
-          <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+          <h2 style="margin: 0; display: inline; float: left; font-size: 20px">
             Total Recovered :
             <span class="recovered">{{ c_total_recovered }}</span>
           </h2>
@@ -52,7 +52,7 @@
       <div>
         <h1>Global Stats</h1>
         <br />
-        <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+        <h2 style="margin: 0; display: inline; float: left; font-size: 20px">
           Total Conformed Cases :
           <span class="total_cases">{{ total_confirmed_cases }}</span>
         </h2>
@@ -61,14 +61,14 @@
           <span class="total_cases">{{ new_confirmed }}</span>
         </h2>
         <br /><br />
-        <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+        <h2 style="margin: 0; display: inline; float: left; font-size: 20px">
           Total Deaths : <span class="death">{{ total_death }}</span>
         </h2>
         <h2 style="margin: 0; display: inline; float: right">
           New Deaths : <span class="death">{{ new_death }}</span>
         </h2>
         <br /><br />
-        <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+        <h2 style="margin: 0; display: inline; float: left; font-size: 20px">
           Total Recovered : <span class="recovered">{{ total_recovered }}</span>
         </h2>
         <h2 style="margin: 0; display: inline; float: right">
