@@ -5,10 +5,10 @@
         <img src="http://www.umw.edu/covidcourse/wp-content/uploads/sites/51/2020/05/COVID-19_header.jpg">
 
         <div class="home-content">
-        <h1 style="font-size:70px;">
+        <h1 style="font-size:75px;">
           COVID-19
         </h1>
-        <p style="font-size:30px;">This platform helps you to get real-time<br />
+        <p style="font-size:25px;">This platform helps you to get real-time<br />
         covid cases updates of every country.</p>
 
         <p style="font-size:20px;">Key Points</p>
@@ -56,8 +56,8 @@
     .home-content {
       position: absolute;
       position: relative;
-      z-index: 10;
-      /* max-width: 600px; */
+      z-index: 15;
+      /* max-width: 650px; */
       height: 50%;
       width:60%;
       align-content: center;
@@ -70,13 +70,13 @@
         color: #ffffff;
         cursor: pointer;
         padding: .8rem;
-        border-radius:5px;
+        border-radius:10px;
         border: 1px solid #ec3312;
         text-decoration: none;
     }
 
     a:hover {
-      transition-duration: 0.4s;
+      transition-duration: 0.3s;
     }
     
     a:hover {
