@@ -33,6 +33,4 @@ npm install
 ```
 npm run serve
 ```
-
-
-
+npm star
