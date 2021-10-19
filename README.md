@@ -1,11 +1,16 @@
 # </> Covid Tracker
 This project is made on VueJS with the help of COVID19 API.  
 Simple tracker for Covid-19 cases and deaths
-# [Covid-19 Description]
+# Covid-19 Description
 
-Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
+Coronavirus disease (COVID-19) is an infectious disease caused by the <b>SARS-CoV-2 </b> virus.
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention.
-almost every corner of world is under this disease 
+almost every corner of world is under this disease.<br>
+The most important step to prevent covid-19 transmission is SMS 😉<br>
+<b>Social distancing</b><br>
+<b>Mask</b><br>
+<b>Sanitize</b><br>
+Don’t forget it. Stay Home Stay Safe….
 
 # Stack-Used
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
