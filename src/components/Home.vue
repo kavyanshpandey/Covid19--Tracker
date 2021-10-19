@@ -22,7 +22,7 @@
     </div>
 
     <div class="first_div" v-if="toggle_data">
-          <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+          <h2  style="margin: 0; display: inline; float: left; font-size: 25px">
             Total Conformed Cases :
             <span class="total_cases">{{ c_total_confirmed_cases }}</span>
           </h2>
@@ -35,7 +35,9 @@
             Total Deaths : <span class="death">{{ c_total_death }}</span>
           </h2>
           <h2 style="margin: 0; display: inline; float: right">
+            
             New Deaths : <span class="death">{{ c_new_death }}</span>
+          
           </h2>
           <br /><br />
           <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
@@ -129,7 +131,6 @@ export default {
       for (const rec of this.countries) {
         if (this.current_country.id === rec.ID) {
           console.log(rec.NewConfirmed);
-
           this.c_total_confirmed_cases = rec.TotalConfirmed;
           this.c_new_confirmed = rec.NewConfirmed;
           this.c_total_recovered = rec.TotalRecovered;
@@ -137,7 +138,6 @@ export default {
           this.c_total_death = rec.TotalDeaths;
           this.c_new_recovered = rec.NewRecovered;
           this.toggle_data = true;
-
           const web = WebClient(this.token);
           break;
         }
@@ -149,7 +149,6 @@ export default {
   },
 };
 </script>
-
 
 
 
