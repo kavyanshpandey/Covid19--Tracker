@@ -5,9 +5,6 @@ import App from './App.vue';
 import Home from './components/Home';
 import WelcomeScreen from './components/WelcomScreen';
 
-
-
-
 const router = createRouter({
     history:createWebHistory(),
     routes: [
@@ -23,8 +20,6 @@ const router = createRouter({
     ]
 })
 const app = createApp(App);
-
-
 
 app.use(router);
 
