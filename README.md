@@ -27,6 +27,10 @@ cd Covid19--Tracker.git
 ```
 npm install
 ```
+or
+```
+npm i
+```
 
 ### [Compiles and hot-reloads for development]
 
