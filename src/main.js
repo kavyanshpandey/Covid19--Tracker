@@ -1,3 +1,7 @@
+``` To get Started with Vue.js
+1. npm install -g @vue/cli
+2. vue create <your-router-project>``` 
+
 import { createApp } from 'vue';
 import { createRouter, createWebHistory } from 'vue-router';
 
