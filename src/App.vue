@@ -11,6 +11,8 @@
 </template>
 
 
+
+    <!-- This is welcome screen and load welcome screen components -->
 <script>
 import WelcomeScreen from './components/WelcomScreen.vue';
 import Home from './components/Home.vue';
@@ -26,6 +28,7 @@ export default({
 
 
 <style>
+    <!-- DIrectly import fonts from google api -->
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 
 template,
