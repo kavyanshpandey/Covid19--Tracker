@@ -51,8 +51,15 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <div>
         <h1>Global Stats</h1>
+                <h1>Total Goal Stats</h1>
         <br />
+        
         <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
+          Total Conformed Covid Cases :
+          <span class="total_cases">{{ total_confirmed_cases }}</span>
+        </h2>
+
+<h2 style="margin: 0; display: inline; float: left; font-size: 25px">
           Total Conformed Cases :
           <span class="total_cases">{{ total_confirmed_cases }}</span>
         </h2>
@@ -74,6 +81,10 @@
         <h2 style="margin: 0; display: inline; float: right">
           New Recovered : <span class="recovered">{{ new_recovered }}</span>
         </h2>
+                <h1 style="margin: 0; display: inline; float: left; font-size: 25px">
+         Thanks for use this app
+        </h1>
+
       </div>
     </div>
   </section>
