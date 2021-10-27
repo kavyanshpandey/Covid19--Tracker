@@ -17,7 +17,7 @@
       <br />
       <br />
       <div>
-        <button @click="getData">Click here to know the stats</button>
+        <button @click="getData">Click here to know the status</button>
       </div>
     </div>
 
@@ -163,7 +163,7 @@ export default {
 
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
-  padding: 2rem;
+  padding: 3rem;
   background-color: #ffffff;
 }
 
@@ -205,7 +205,7 @@ button:active{
 
 .death {
   color: crimson;
-  font-size: 30px;
+  font-size: 32px;
 }
 
 select {
