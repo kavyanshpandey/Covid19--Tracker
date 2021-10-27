@@ -40,7 +40,7 @@
     section.home {
 
       flex-direction: row;
-      /* margin-top: 18rem; */
+      /* margin-top: 18rem; wow*/
     }
 
 
