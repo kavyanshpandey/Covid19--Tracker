@@ -85,7 +85,7 @@ export default {
   data() {
     return {
       
-      current_country: "", //selected country
+      current_country: "", //selected country, like India
       countries: "", //Country array, that will include all countries data.
       toggle_data: false,
 
