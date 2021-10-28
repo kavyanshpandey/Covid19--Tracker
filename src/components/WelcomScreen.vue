@@ -5,13 +5,13 @@
         <img src="http://www.umw.edu/covidcourse/wp-content/uploads/sites/51/2020/05/COVID-19_header.jpg">
 
         <div class="home-content">
-        <h1 style="font-size:70px;">
+        <h1 style="font-size:60px;">
           COVID-19
         </h1>
-        <p style="font-size:30px;">This platform helps you to get real-time<br />
+        <p style="font-size:25px;">This platform helps you to get real-time<br />
         covid cases updates of every country.</p>
 
-        <p style="font-size:20px;">Key Points</p>
+        <p style="font-size:15px;">Key Points</p>
         <p>New Confirmed Cases  &#9989</p>
         <p>New Recovered Cases  &#9989</p>
         <p>and many more..</p>
