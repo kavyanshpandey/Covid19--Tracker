@@ -5,7 +5,11 @@ Simple tracker for Covid-19 cases and deaths
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention.
-almost every corner of world is under this disease 
+almost every corner of world is under this disease It is the largest category for an RNA virus. In most cases, it is difficult to detect if coronavirus or a different cold-causing virus is causing you fever.
+
+Known as “COVID-19”, the newly identified coronavirus can cause pneumonia, and like other respiratory infections, it has an incubation of between 1 and 14 days.
+
+
 
 # Stack-Used
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -29,7 +33,7 @@ npm install
 ```
 
 ### [Compiles and hot-reloads for development]
-
+l
 ```
 npm run serve
 ```
