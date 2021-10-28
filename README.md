@@ -5,7 +5,7 @@ Simple tracker for Covid-19 cases and deaths
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention.
-almost every corner of world is under this disease 
+almost every corner of world is under this disease covid-19
 
 # Stack-Used
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -18,6 +18,7 @@ almost every corner of world is under this disease
 2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
 
 ## [Clone Repository]
+open git bash
 ```
 git clone https://github.com/<your user name>/Covid19--Tracker.git
 cd Covid19--Tracker.git
