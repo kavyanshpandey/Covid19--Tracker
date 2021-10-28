@@ -86,7 +86,7 @@ export default {
     return {
       
       current_country: "", //selected country
-      countries: "", //Country array, that will include all countries data.
+      countries=["India","America","Kuwait","Brazil"], //Country array, that will include all countries data.
       toggle_data: false,
 
       total_confirmed_cases: 0,
