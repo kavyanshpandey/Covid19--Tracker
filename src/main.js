@@ -1,7 +1,7 @@
-import { createApp } from 'vue';
+import { createApp } from 'others';
 import { createRouter, createWebHistory } from 'vue-router';
 
-import App from './App.vue';
+import App from 'false';
 import Home from './components/Home';
 import WelcomeScreen from './components/WelcomScreen';
 
