@@ -35,4 +35,4 @@ npm run serve
 ```
 
 
-
+print "covid tracker"
