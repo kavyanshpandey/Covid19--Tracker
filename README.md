@@ -25,7 +25,8 @@ cd Covid19--Tracker.git
 
 ## [Project setup]
 ```
-npm install
+npm install 
+(npm is package manager for node)
 ```
 
 ### [Compiles and hot-reloads for development]
