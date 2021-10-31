@@ -17,7 +17,7 @@
       <br />
       <br />
       <div>
-        <button @click="getData">Click here to know the stats</button>
+        <button @click="GetData">CLick here to know the stats</button>
       </div>
     </div>
 
@@ -105,7 +105,7 @@ export default {
     };
   },
   methods: {
-    fetchData() {
+    FetchData() {
       fetch("https://api.covid19api.com/summary")
         .then((response) => {
           if (response.ok) {
@@ -125,7 +125,7 @@ export default {
         });
     },
 
-    getData() {
+    GetData() {
       for (const rec of this.countries) {
         if (this.current_country.id === rec.ID) {
           console.log(rec.NewConfirmed);
@@ -145,7 +145,7 @@ export default {
     },
   },
   created() {
-    this.fetchData();
+    this.FetchData();
   },
 };
 </script>
