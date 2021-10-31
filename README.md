@@ -1,4 +1,4 @@
-# </> Covid Tracker
+# </> Covid Tracker..
 This project is made on VueJS with the help of COVID19 API.  
 Simple tracker for Covid-19 cases and deaths
 # [Covid-19 Description]
@@ -27,6 +27,7 @@ cd Covid19--Tracker.git
 ```
 npm install
 ```
+"""
 
 ### [Compiles and hot-reloads for development]
 
