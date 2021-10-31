@@ -33,6 +33,10 @@ npm install
 ```
 npm run serve
 ```
+..
+...
+..
+Print "Jada aano monusee"
 
 
 
