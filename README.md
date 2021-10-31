@@ -33,6 +33,6 @@ npm install
 ```
 npm run serve
 ```
-
+print " thank yopu"
 
 
