@@ -33,6 +33,11 @@ npm install
 ```
 npm run serve
 ```
+...
+...
+.
+.
+print "entheda nee fun aakuvano"
 
 
 
