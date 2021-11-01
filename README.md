@@ -18,17 +18,17 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br>
 
-# [Features]
+## [Features]
 1. Visiters will get all latest information related to `covid-counts`.
 2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
 
-# [Clone Repository]
+## [Clone Repository]
 ```
 git clone https://github.com/<your user name>/Covid19--Tracker.git
 cd Covid19--Tracker.git
 ```
 
-# [Project setup]
+## [Project setup]
 ```
 npm install
 ```
