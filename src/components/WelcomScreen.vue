@@ -6,7 +6,7 @@
 
         <div class="home-content">
         <h1 style="font-size:70px;">
-          COVID-19  
+          COVID-19
         </h1>
         <p style="font-size:30px;">This platform helps you to get real-time<br />
         covid cases updates of every country.</p>
@@ -17,83 +17,72 @@
         <p>and many more..</p>
         
         <br />
-        
-        
+       
         <router-link to="/stats">Get Started</router-link>
         
       </div>
     </section>    
 
-    
 </template>
 
 <script>
-import Home from './Home';
+    import Home from './Home';
+    
+    export default({
+      components:{
+        'home':Home
+      }
 
-
-export default({
-  components:{
-    'home':Home
-  }
-
-})
-
-
-</script>
-
-
-
-
-
+    })
+</script>   
 
 <style scoped>
-section.home {
+    section.home {
 
-  flex-direction: row;
-  /* margin-top: 18rem; */
-}
-
-
-img {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  height: 100%;
-  width:60%
-   
-}
-
-.home-content {
-  position: absolute;
-  position: relative;
-  z-index: 10;
-  /* max-width: 600px; */
-  height: 50%;
-  width:60%;
-  align-content: center;
-  margin-top:14rem;
-  
-}
-
-a {
-    background: #ec3312;
-    color: #ffffff;
-    cursor: pointer;
-    padding: .8rem;
-    border-radius:5px;
-    border: 1px solid #ec3312;
-    text-decoration: none;
-}
-
-a:hover {
-  transition-duration: 0.4s;
-}
-
-a:hover {
-  background-color: #c82b0f;
-  border: 1px solid #c82b0f;
-  color: #ffffff;
-}
+      flex-direction: row;
+      /* margin-top: 18rem; */
+    }
 
 
+    img {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      height: 100%;
+      width:60%
+
+    }
+
+    .home-content {
+      position: absolute;
+      position: relative;
+      z-index: 10;
+      /* max-width: 600px; */
+      height: 50%;
+      width:60%;
+      align-content: center;
+      margin-top:14rem;
+
+    }
+
+    a {
+        background: #ec3312;
+        color: #ffffff;
+        cursor: pointer;
+        padding: .8rem;
+        border-radius:5px;
+        border: 1px solid #ec3312;
+        text-decoration: none;
+    }
+
+    a:hover {
+      transition-duration: 0.4s;
+    }
+    
+    a:hover {
+      background-color: #c82b0f;
+      border: 1px solid #c82b0f;
+      color: #ffffff;
+    }
+    
 </style>

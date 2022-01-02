@@ -32,6 +32,9 @@ template,
 body {
   font-family: 'Poppins', sans-serif;
   color: #111;
+  background: url("https://raw.githubusercontent.com/Mr-vabs/mnnessaa/main/card/layered-waves.svg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-
 </style>
