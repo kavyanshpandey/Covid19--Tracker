@@ -16,6 +16,7 @@ almost every corner of world is under this disease
 ## [Features]
 1. Visiters will get all latest information related to `covid-counts`.
 2. Visiters can also get the `counts` for thier country by selecting country name from dropdown.
+3. You can view our current uptime and any known issues on our status page.
 
 ## Project link - click [here](https://covid-counts-84421.web.app/)
 
