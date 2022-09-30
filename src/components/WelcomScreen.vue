@@ -80,7 +80,7 @@
     }
     
     a:hover {
-      background-color: #c82b0f;
+      background-color: #cb60021;
       border: 1px solid #c82b0f;
       color: #ffffff;
     }
