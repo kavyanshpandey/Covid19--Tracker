@@ -20,7 +20,7 @@ const router = createRouter({
     },
     {
       //path for 404
-      path: "/:notFound(.*)",
+      path: "/:notFound(.*) 404",
       redirect: "/",
     },
   ],
