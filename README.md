@@ -34,6 +34,8 @@ npm install
 
 ```
 npm run serve
+npm start dev
+npm start
 ```
 
 
