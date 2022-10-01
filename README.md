@@ -4,7 +4,25 @@ Simple tracker for Covid-19 cases and deaths
 # [Covid-19 Description]
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
-Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention.
+Most people who fall sick with COVID-19 will experience mild to moderate symptoms 
+
+Most common symptoms:
+fever
+cough
+tiredness
+loss of taste or smell
+Less common symptoms:
+sore throat
+headache
+aches and pains
+diarrhoea
+a rash on skin, or discolouration of fingers or toes
+red or irritated eyes
+Serious symptoms:
+difficulty breathing or shortness of breath
+loss of speech or mobility, or confusion
+chest pain
+and recover without special treatment. However, some become seriously ill and require medical attention.
 almost every corner of world is under this disease 
 
 # Stack-Used
