@@ -189,7 +189,7 @@ button:active{
   background:#ffffff;
   color: #000000;
   border-color: #000000;
-  border: 1px solid #000000;
+  border: 2px solid #000000;
   transition: 0.3s;
 }
 
@@ -199,7 +199,7 @@ button:active{
 }
 
 .recovered {
-  color: rgb(122, 207, 37);
+  color: rgb(123, 207, 37);
   font-size: 30px;
 }
 
