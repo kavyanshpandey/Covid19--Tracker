@@ -5,7 +5,8 @@
         <!-- <welcome-screen></welcome-screen> -->
 
         <!-- <home></home> -->
-        
+        // this is test comment
+        //please merge my pull request 
 
     </div>    
 </template>
