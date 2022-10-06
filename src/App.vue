@@ -20,7 +20,7 @@ export default({
         'home':Home,
         'welcome-screen':WelcomeScreen
     }
-    
+    // coment line
 })
 </script>
 
