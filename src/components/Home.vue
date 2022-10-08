@@ -3,9 +3,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <div class="first_div">
-      <h2 style="font-size: 30px">Please Select Country</h2>
+      <h2 style="font-size: 40px">Please Select Country</h2>
       <select v-model="current_country">
-        <option disabled selected value="">Select Country</option>
+        <option disabled selected value="">Select Here</option>
         <option
           v-for="country in countries"
           :value="{ id: country.ID, name: country.Country }"
@@ -27,7 +27,7 @@
             <span class="total_cases">{{ c_total_confirmed_cases }}</span>
           </h2>
           <h2 style="margin: 0; display: inline; float: right">
-            New Conformed Cases :
+            Conformed Cases :
             <span class="total_cases">{{ c_new_confirmed }}</span>
           </h2>
           <br /><br />
@@ -35,7 +35,7 @@
             Total Deaths : <span class="death">{{ c_total_death }}</span>
           </h2>
           <h2 style="margin: 0; display: inline; float: right">
-            New Deaths : <span class="death">{{ c_new_death }}</span>
+            Deaths : <span class="death">{{ c_new_death }}</span>
           </h2>
           <br /><br />
           <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
@@ -43,7 +43,7 @@
             <span class="recovered">{{ c_total_recovered }}</span>
           </h2>
           <h2 style="margin: 0; display: inline; float: right">
-            New Recovered : <span class="recovered">{{ c_new_recovered }}</span>
+            Recovered : <span class="recovered">{{ c_new_recovered }}</span>
           </h2>
         </div>
 
@@ -57,7 +57,7 @@
           <span class="total_cases">{{ total_confirmed_cases }}</span>
         </h2>
         <h2 style="margin: 0; display: inline; float: right">
-          New Conformed Cases :
+          Conformed Cases :
           <span class="total_cases">{{ new_confirmed }}</span>
         </h2>
         <br /><br />
@@ -65,14 +65,14 @@
           Total Deaths : <span class="death">{{ total_death }}</span>
         </h2>
         <h2 style="margin: 0; display: inline; float: right">
-          New Deaths : <span class="death">{{ new_death }}</span>
+          Deaths : <span class="death">{{ new_death }}</span>
         </h2>
         <br /><br />
         <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
           Total Recovered : <span class="recovered">{{ total_recovered }}</span>
         </h2>
         <h2 style="margin: 0; display: inline; float: right">
-          New Recovered : <span class="recovered">{{ new_recovered }}</span>
+          Recovered : <span class="recovered">{{ new_recovered }}</span>
         </h2>
       </div>
     </div>
