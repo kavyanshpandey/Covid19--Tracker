@@ -2,23 +2,23 @@
 
     <section class="home">
        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <img src="http://www.umw.edu/covidcourse/wp-content/uploads/sites/51/2020/05/COVID-19_header.jpg">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0DT8VAU74FShwj6wnDdAgQ1ukpY1TGgAzZA&usqp=CAU">
 
         <div class="home-content">
         <h1 style="font-size:70px;">
           COVID-19
         </h1>
-        <p style="font-size:30px;">This platform helps you to get real-time<br />
+        <p style="font-size:30px;">This site will help you to get real-time<br />
         covid cases updates of every country.</p>
 
-        <p style="font-size:20px;">Key Points</p>
-        <p>New Confirmed Cases  &#9989</p>
-        <p>New Recovered Cases  &#9989</p>
-        <p>and many more..</p>
+        <p style="font-size:20px;">Key Features</p>
+        <p> Confirmed Cases  &#9989</p>
+        <p> Recovered Cases  &#9989</p>
+        <p>Many more...</p>
         
         <br />
        
-        <router-link to="/stats">Get Started</router-link>
+        <router-link to="/stats"> Lets Get Started</router-link>
         
       </div>
     </section>    
@@ -80,9 +80,9 @@
     }
     
     a:hover {
-      background-color: #c82b0f;
-      border: 1px solid #c82b0f;
-      color: #ffffff;
+      background-color: #440c02;
+      border: 1px solid #f0f0f0;
+      color: #030000;
     }
     
 </style>
