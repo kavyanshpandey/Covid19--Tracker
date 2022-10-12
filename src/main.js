@@ -7,7 +7,6 @@ import WelcomeScreen from './components/WelcomScreen';
 
 
 
-
 const router = createRouter({
     history:createWebHistory(),
     routes: [
@@ -31,3 +30,5 @@ app.use(router);
 app.mount('#app');
 
 //keep the good work going
+
+// Good projects
