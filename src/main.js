@@ -3,7 +3,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 
 import App from './App.vue';
 import Home from './components/Home';
-import WelcomeScreen from './components/WelcomScreen';
+import WelcomeScreen from './components/WelcomScreen'; // importing WelcomeScreen from components
 
 
 
