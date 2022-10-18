@@ -10,6 +10,8 @@
     </div>    
 </template>
 
+//This code has zero erros and looks great to me.
+
 
 <script>
 import WelcomeScreen from './components/WelcomScreen.vue';
