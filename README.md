@@ -1,5 +1,7 @@
 # </> Covid Tracker
 This project is made on VueJS with the help of COVID19 API.  
+Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.
+
 Simple tracker for Covid-19 cases and deaths
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention.
