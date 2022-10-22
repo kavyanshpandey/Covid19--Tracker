@@ -7,6 +7,7 @@ import WelcomeScreen from './components/WelcomScreen';
 
 
 
+//creating router
 
 const router = createRouter({
     history:createWebHistory(),
