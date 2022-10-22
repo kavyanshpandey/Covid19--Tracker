@@ -23,11 +23,11 @@
 
     <div class="first_div" v-if="toggle_data">
           <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
-            Total Conformed Cases :
+            Total Confirmed Cases :
             <span class="total_cases">{{ c_total_confirmed_cases }}</span>
           </h2>
           <h2 style="margin: 0; display: inline; float: right">
-            Conformed Cases :
+            Confirmed Cases :
             <span class="total_cases">{{ c_new_confirmed }}</span>
           </h2>
           <br /><br />
@@ -53,11 +53,11 @@
         <h1>Global Stats</h1>
         <br />
         <h2 style="margin: 0; display: inline; float: left; font-size: 25px">
-          Total Conformed Cases :
+          Total Confirmed Cases :
           <span class="total_cases">{{ total_confirmed_cases }}</span>
         </h2>
         <h2 style="margin: 0; display: inline; float: right">
-          Conformed Cases :
+          Confirmed Cases :
           <span class="total_cases">{{ new_confirmed }}</span>
         </h2>
         <br /><br />
