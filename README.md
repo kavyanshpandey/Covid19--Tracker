@@ -1,3 +1,7 @@
+# What is Covid-19?
+Coronavirus disease (COVID-19) is a virus-borne infection caused by the SARS-CoV-2 viral.
+Most persons who get COVID-19 will have mild to moderate symptoms and will recover without any additional therapy. Some, though, will become very ill and require medical attention.
+
 # </> Covid Tracker
 This project is made on VueJS with the help of COVID19 API.  
 Simple tracker for Covid-19 cases and deaths
