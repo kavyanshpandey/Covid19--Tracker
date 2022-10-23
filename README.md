@@ -1,3 +1,6 @@
+# HTML Explained
+HTML, or Hypertext Markup Language, is a programming language that is used to describe the structure of web pages. HTML allows you to create static pages with text, headings, tables, lists, graphics, and links, among other things.
+
 # </> Covid Tracker
 This project is made on VueJS with the help of COVID19 API.  
 Simple tracker for Covid-19 cases and deaths
