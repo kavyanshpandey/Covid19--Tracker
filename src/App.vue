@@ -5,7 +5,7 @@
         <!-- <welcome-screen></welcome-screen> -->
 
         <!-- <home></home> -->
-        
+        //this is comment
 
     </div>    
 </template>
