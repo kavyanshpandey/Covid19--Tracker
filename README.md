@@ -32,7 +32,7 @@ almost every corner of world is under this disease
 
 2. Visiters can also get the `counts` for their country by selecting country name from dropdown.
 
-### Project link - [Click Here](https://covid-counts-84421.web.app/)
+### Project link - [Click Here](https://covid-counts-84421.web.app/) (COVID API has been removed) Not able to fetch latest results)
 
 ## [Clone Repository]
 ```
