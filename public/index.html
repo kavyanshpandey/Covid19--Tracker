@@ -1,21 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
+<head>
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pravin Bante</title>
+     <!--Font awesome link-->
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+     
+     <!--Custom CSS file link-->
+     <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+   <!--header section starts--> 
+   <header>
+       <div class="header-1">
+           <a href="#" class="logo">P.R.Bante</a>
+           <h3 class="call"><i class="fas fa-phone-alt"></i>Call Now: +91 7420865153</h3>
+       </div>
+
+       <div class="header-2">
+           <div id="menu" class="fas fa-hamburger"></div>
+           <nav class="navbar">
+               <ul>
+               <li><a class="active" href="#home">Home</a></li> 
+               <li><a href="#about">About</a></li> 
+               <li><a href="#Skills">Skills</a></li> 
+               <li><a href="#Project">Project</a></li> 
+               <li><a href="#contact me">Contact Me</a></li> 
+              </ul>
+            </nav>
+            <div class="share">
+                <a href="https://www.facebook.com/pranit.bante.9" class="fab fa-facebook-f"></a>
+                <a href="https://www.instagram.com/bante_pravin/" class="fab fa-instagram"></a>
+                <a href="https://www.linkedin.com/in/pravin-bante-397a631b2" class="fab fa-linkedin"></a>
+                <a href="https://github.com/pravin1237" class="fab fa-github"></a>
+            </div>
+       </div>
+   </header>
+   <!--header section ends--> 
 
 
-    <title><%= htmlWebpackPlugin.options.title %></title>
-  </head>
-  <body>
-    Covid Tracker will be added soon stay tuned!!
-    <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
-    <div id="app"></div>
-    <!-- built files will be auto injected -->
-  </body>
+   <!--Home Section starts-->
+   <section class="home" id="home">
+       <div class="content">
+           <h1>Welcome to my <span>Portfolio</span></h1>
+           <p>sit amet, consectetur adipisicing elit. Maiores neque ut aperiam, dolore autem laudantium. consectetur adipisicing elit. Praesentium perspiciatis modi molestias rem, in nemo.</p>
+           <a href="#"><button class="btn">Download CV</button></a>
+       </div>
+       
+       <div class="shape">
+           
+       </div>
+   </section>   
+
+   <!--Home Section ends-->
+
+
+
+   <!--About section starts-->
+  <section class="about" id="about">
+      <h1 class="heading"><span>About us</span></h1>
+      <div class="row">
+          <div class="content">
+              <h3>Lorem ipsum dolor sit amet.</h3>
+              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi amet nam in rerum ullam ducimus et ipsam repellendus ad sequi!</p><br>
+              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi amet nam in rerum ullam ducimus et ipsam repellendus ad sequi!</p><br>
+              <a href="#"><buttoon class="btn">learn more</buttoon></a>
+          </div>
+          <div class="image">
+             <img src="img/bg1.png" alt=""> 
+          </div>
+      </div>
+  </section>
+
+   <!--About section end-->
+    
+
+   <!--Project Section Start-->
+   
+   <!--Project Section End-->
+
+
+    <!--Jquery CDN link-->
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+
+    <!--Custom JS file link-->
+    <script src="main.js"></script>
+</body>
 </html>
