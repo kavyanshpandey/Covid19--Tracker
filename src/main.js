@@ -7,7 +7,7 @@ import WelcomeScreen from './components/WelcomScreen';
 
 
 
-
+//Created Routes to navigate to different web pages
 const router = createRouter({
     history:createWebHistory(),
     routes: [
