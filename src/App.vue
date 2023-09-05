@@ -19,6 +19,7 @@ export default({
     components:{
         'home':Home,
         'welcome-screen':WelcomeScreen
+        // Comment added
     }
     
 })
