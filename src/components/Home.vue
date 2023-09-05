@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <div class="first_div">
-      <h2 style="font-size: 40px">Please Select Country</h2>
+      <h2 style="font-size: 40px">Please Select the Country</h2>
       <select v-model="current_country">
         <option disabled selected value="">Select Here</option>
         <option
